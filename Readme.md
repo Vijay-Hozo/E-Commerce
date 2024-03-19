@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-This is a simple e-commerce website built using HTML, CSS, and JavaScript.
+This is a simple E-Commerce website built using HTML, CSS, and JavaScript.
 
 ## Features
 
